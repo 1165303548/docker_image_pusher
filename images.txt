@@ -1,1 +1,1 @@
-bitnamilegacy/rabbitmq:3.8.9-debian-10-r37
+bitnami/rabbitmq
